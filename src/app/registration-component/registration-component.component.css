@@ -1,0 +1,25 @@
+.my-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.my-card {
+  max-width: 400px;
+  max-height: 437px;
+}
+
+.mat-radio-button {
+  padding-left: 16px;
+}
+
+.center {
+  position: relative;
+  margin-left: auto;
+  margin-top: 35px;
+  margin-right: auto;
+}
